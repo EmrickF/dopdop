@@ -34,7 +34,7 @@ export default function RootLayout({
               display: "flex",
               justifyContent: "center",
               alignItems: "center",
-              height: "60px",
+              height: "50px",
             }}
           >
             <Link href="/">Home</Link> |{" "}
